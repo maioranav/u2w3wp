@@ -12,7 +12,7 @@ public class SondaRunner implements ApplicationRunner {
 
 	@Override
 	public void run(ApplicationArguments args) throws Exception {
-		log.error("*::ALARM ENGAGED::* > Sonda id NUM, LAT= , LONG= , SMOKE=  < CRITIC!");
+		
 
 	}
 
